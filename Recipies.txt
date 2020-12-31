@@ -13,6 +13,14 @@ Recipe for pasta
     -----
     -----
 }
+Class Dinner (
+    Recipe for Paneer {
+            -----
+            -----
+            -----
+    
+        }
 
+)
 
 Consulsion note { --------- }
