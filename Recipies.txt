@@ -6,3 +6,10 @@ Recipe for maggie
     -------
     -------
 }
+
+Recipe for pasta
+{
+    -----
+    -----
+    -----
+}
